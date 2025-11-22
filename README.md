@@ -9,7 +9,6 @@
 
 Автор НЕ НЕСЁТ НИКАКОЙ ОТВЕТСТВЕННОСТИ за любой ущерб, убытки или незаконные действия, возникшие в результате использования этого кода или файлов.
 
-
 |EN| sending files remotely to your own or someone else's computer via a telegram bot
 to make it work .the exe file and everything worked:
 1. in line (5) TOKEN = 'YOUR_ID_TOKEN', enter your bot's token (you can create it using bot father (@BotFather)
