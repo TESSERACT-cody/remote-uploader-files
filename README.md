@@ -26,7 +26,7 @@ to make it work .the exe file and everything worked:
 
 2.1 you also do in line (17) SAVE_DIR = r' YOUR PATH TO THE DIRECTORY'
 
-3. to convert the script to an exe file, enter the command pyinstaller --onefile --noconsole in the terminal. uploader.py (YOU MUST MAKE A FOLDER WITH THIS FILE AND THE dist FOLDER INSIDE IT)
+3. to convert the script to an exe file, enter the command pyinstaller --onefile --noconsole uploader.py (YOU MUST MAKE A FOLDER WITH THIS FILE AND THE dist FOLDER INSIDE IT)
 
 4. run the file uploader.exe and you upload files through your bot.
 
